@@ -1,0 +1,5 @@
+{
+    "jupyter.interactiveWindow.notebookRepl": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.themeMatplotlibPlots": true
+}
