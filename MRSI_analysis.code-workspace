@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../data/MRSI"
+		}
+	],
+	"settings": {
+		"jupyter.interactiveWindow.notebookRepl": true,
+		"jupyter.themeMatplotlibPlots": true
+	}
+}
